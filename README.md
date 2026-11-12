@@ -1,8 +1,6 @@
 # Sistema de Gerenciamento de Missões em uma Colônia Submarina (C)
 
-Trabalho de Estrutura de Dados (Estácio). Este repositório contém a parte do
-**Integrante 2: Gestão Sequencial (Fila e Histórico)**.
-
+Trabalho de Estrutura de Dados (Estácio)
 ## O que está implementado
 
 - **Fila de Execução** (FIFO, lista encadeada): organiza as missões aguardando execução.

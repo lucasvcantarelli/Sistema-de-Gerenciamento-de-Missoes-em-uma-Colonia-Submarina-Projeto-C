@@ -1,0 +1,12 @@
+# Executaveis e arquivos gerados pela compilacao
+*.exe
+*.o
+*.obj
+*.out
+*.a
+*.dll
+*.so
+
+# Arquivos de IDE
+.vscode/
+.idea/
